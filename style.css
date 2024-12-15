@@ -1,0 +1,39 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+ul {
+    list-style: none;
+}
+
+.flex {
+    display: flex;
+}
+
+.hero {
+    background-color: #1F2937;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;   
+}
+
+.hero-secondary-text, .header-links a {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-links a {
+    text-decoration: none;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    color: #F0FAF8;
+    font-weight: 900;
+}
+
+
