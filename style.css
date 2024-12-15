@@ -76,3 +76,43 @@ ul {
     border-radius: 10px;
     border: none;
 }
+
+.info-section {
+    flex-direction: column;
+    background-color: white;
+    height: 300px;
+    padding: 40px 150px 60px 150px;
+    align-items: center;
+    justify-content: center;
+    gap: 36px;
+}
+
+.info-header-text {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.info-images-container {
+    flex-direction: row;
+    justify-content: center;
+    gap: 36px;
+}
+
+.info-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    border-color: #3882F6;
+    border-style: solid;
+}
+
+.info {
+    flex-direction: column;
+    max-width: 100px;
+    justify-items: center;
+}
+
+.info-text {
+    text-align: center;
+}
