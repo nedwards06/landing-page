@@ -138,3 +138,44 @@ ul {
     font-weight: bold;
     align-self: flex-end;
 }
+
+.call-to-action-section {
+    background-color: white;
+    height: 200px;
+    padding: 10px 150px 10px 150px;
+    align-items: center;
+    justify-content: center;
+}
+
+.call-to-action-wrapper {
+    background-color: #3882F6;
+    flex-basis: 100%;
+    border-radius: 5px;
+    padding: 40px 100px 40px 100px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.call-to-action-left {
+    flex-direction: column;
+}
+
+.call-to-action-header {
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.call-to-action-text {
+    color: #E5E7EB;
+}
+
+.call-to-action-button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-style: solid;
+    border-color: #E5E7EB;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+}
