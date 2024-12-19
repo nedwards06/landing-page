@@ -141,7 +141,7 @@ ul {
 
 .call-to-action-section {
     background-color: white;
-    height: 200px;
+    height: 250px;
     padding: 10px 150px 10px 150px;
     align-items: center;
     justify-content: center;
@@ -178,4 +178,13 @@ ul {
     border-radius: 5px;
     width: 100px;
     height: 30px;
+}
+
+.footer {
+    background-color: #1F2937;
+    height: 65px;
+    align-items: center;
+    justify-content: center;
+    color: #E5E7EB;
+    font-size: smaller;
 }
